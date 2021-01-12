@@ -1,0 +1,11 @@
+.searchBox {
+    border: none;
+    outline: none;
+    padding: 10px;
+    background: #eee;
+    border-radius: 10px;
+    transition: 0.4s ease-out;
+    &:focus {
+        box-shadow: 0 0 8px 3px #4484C4;
+    }
+}

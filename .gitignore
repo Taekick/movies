@@ -1,0 +1,6 @@
+### front react ###
+# dependencies
+node_modules
+
+# misc
+.DS_Store
